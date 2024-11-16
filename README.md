@@ -54,6 +54,8 @@
 <div align="center">
   <img style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Eonji-sw&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="eonji's github stats" />
   <img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eonji-sw&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
+  
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ki6z2n5u1m)](https://solved.ac/ki6z2n5u1m)
 </div>
 
 <h3 align="center">🛠️ Tech Stack & Tool 🛠️</h3>
