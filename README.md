@@ -23,7 +23,7 @@
 | 기간 | 이름 | 내용 | 파트 |
 | --- | --- | --- | --- |
 | 2022.07 ~ 2022.07　|<a>용문고 하계 웹 기초 스터디 봉사</a>|JavaScript를 사용한 개인 블로그&ESP 캠을 이용한 인생네컷 프레임 제작|JavaScript 파트|
-| 2022.08 ~ 2022.09　|<a href="https://github.com/KOSS-LOOK-OUT">Look-Out</a>|시각장애인을 위한 음성기반 위험 안내 시스템|기획, 디자인, Android App 개발|
+| 2022.08 ~ 2022.09　|<a href="https://github.com/KOSS-LOOK-OUT">Look-Out</a>|청각장애인을 위한 음성기반 위험 안내 시스템|기획, 디자인, Android App 개발|
 | 2023.01 ~ 2023.06　|<a href="https://github.com/BBiyongi">BBiyongi</a>|CCTV 기반 폭행&심정지 모션 감지 시스템|PM, 기획, Android App 개발|
 | 2023.11 ~ 2023.12　|<a href="https://github.com/DO-SOPT-APP3-Airbnb">Airbnb</a>|Airbnb 클론 코딩 프로젝트|Android App 개발|
 | 2023.12 ~ 2023.12 |<a href="https://github.com/2023-COKOTHON-Team10">COKOTHON</a>|국민대 x 숙명여대 연합 해커톤|기획, 디자인, Android App 개발|
