@@ -23,16 +23,16 @@
 | 기간 | 이름 | 내용 | 파트 |
 | --- | --- | --- | --- |
 | 2022.07 ~ 2022.07　|<a>용문고 하계 웹 기초 스터디 봉사</a>|JavaScript를 사용한 개인 블로그&ESP 캠을 이용한 인생네컷 프레임 제작|JavaScript 파트|
-| 2022.08 ~ 2022.09　|<a href="https://github.com/KOSS-LOOK-OUT">Look-Out</a>|청각장애인을 위한 음성기반 위험 안내 시스템|기획, 디자인, Android App 개발|
-| 2023.01 ~ 2023.06　|<a href="https://github.com/BBiyongi">BBiyongi</a>|CCTV 기반 폭행&심정지 모션 감지 시스템|PM, 기획, Android App 개발|
-| 2023.11 ~ 2023.12　|<a href="https://github.com/DO-SOPT-APP3-Airbnb">Airbnb</a>|Airbnb 클론 코딩 프로젝트|Android App 개발|
-| 2023.12 ~ 2023.12 |<a href="https://github.com/2023-COKOTHON-Team10">COKOTHON</a>|국민대 x 숙명여대 연합 해커톤|기획, 디자인, Android App 개발|
-| 2023.12 ~ 2024.07　|<a href="https://github.com/TeamDon-tBe">Don’t Be</a>|비난·차별·혐오 표현의 글을 투명하게, 우리가 함께 만들어가는 온화한 익명 커뮤니티 서비스|Android App 개발|
+| 2022.08 ~ 2022.09　|<a href="https://github.com/KOSS-LOOK-OUT/LookOut_App">Look-Out</a>|청각장애인을 위한 음성기반 위험 안내 시스템|기획, 디자인, Android App 개발|
+| 2023.01 ~ 2023.06　|<a href="https://github.com/BBiyongi/BBiyongi_app">BBiyongi</a>|CCTV 기반 폭행&심정지 모션 감지 시스템|PM, 기획, Android App 개발|
+| 2023.11 ~ 2023.12　|<a href="https://github.com/DO-SOPT-APP3-Airbnb/Airbnb-Android">Airbnb</a>|Airbnb 클론 코딩 프로젝트|Android App 개발|
+| 2023.12 ~ 2023.12 |<a href="https://github.com/2023-COKOTHON-Team10/COKOTHON-Android">COKOTHON</a>|국민대 x 숙명여대 연합 해커톤|기획, 디자인, Android App 개발|
+| 2023.12 ~ 2024.07　|<a href="https://github.com/TeamDon-tBe/ANDROID">Don’t Be</a>|비난·차별·혐오 표현의 글을 투명하게, 우리가 함께 만들어가는 온화한 익명 커뮤니티 서비스|Android App 개발|
 | 2023.12 ~ 2024.07　|<a href="https://github.com/kookmin-sw/capstone-2024-24">Jumi(/Kiumee)</a>|AI 기반 대화형 키오스크 시스템|기획, 디자인, Android App 개발|
-| 2024.05 ~ 2024.05　|<a href="https://github.com/NOW-SOPT-APP2-KAKAOBANK">KakaoBank</a>|KakaoBank 클론 코딩 프로젝트|Android 개발 파트 리드, Android App 개발|
-| 2024.06 ~ 2024.07　|<a href="https://github.com/Team-UniVoice">UniVoice</a>|학생회와 학생들의 목소리로 함께 만들어가는 대학 생활 필수 서비스|Android 개발 파트 리드, Android App 개발|
-| 2024.07 ~ 2025.02　|<a href="https://github.com/Team-Wable">Wable</a>|비난, 조롱없이 내 팀과 선수를 응원하는 LCK 팬 커뮤니티 서비스|Android App 개발|
-| 2024.10 ~ ing　|<a href="https://github.com/Noostak">Noostak</a>|누구나 편리하게 탁, 스케줄 관리 서비스|Android App 개발|
+| 2024.05 ~ 2024.05　|<a href="https://github.com/NOW-SOPT-APP2-KAKAOBANK/KAKAOBANK-Android">KakaoBank</a>|KakaoBank 클론 코딩 프로젝트|Android 개발 파트 리드, Android App 개발|
+| 2024.06 ~ 2024.07　|<a href="https://github.com/Team-UniVoice/UniVoice_Android">UniVoice</a>|학생회와 학생들의 목소리로 함께 만들어가는 대학 생활 필수 서비스|Android 개발 파트 리드, Android App 개발|
+| 2024.07 ~ 2025.02　|<a href="https://github.com/Team-Wable/WABLE-ANDROID">Wable</a>|비난, 조롱없이 내 팀과 선수를 응원하는 LCK 팬 커뮤니티 서비스|Android App 개발|
+| 2024.10 ~ ing　|<a href="https://github.com/Noostak/Noostak_Android">Noostak</a>|누구나 편리하게 탁, 스케줄 관리 서비스|Android App 개발|
 
 </div>
 
