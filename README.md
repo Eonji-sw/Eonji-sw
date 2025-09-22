@@ -32,7 +32,7 @@
 | 2024.05 ~ 2024.05　|<a href="https://github.com/NOW-SOPT-APP2-KAKAOBANK/KAKAOBANK-Android">KakaoBank</a>|KakaoBank 클론 코딩 프로젝트|Android 개발 파트 리드, Android App 개발|
 | 2024.06 ~ 2024.07　|<a href="https://github.com/Team-UniVoice/UniVoice_Android">UniVoice</a>|학생회와 학생들의 목소리로 함께 만들어가는 대학 생활 필수 서비스|Android 개발 파트 리드, Android App 개발|
 | 2024.07 ~ 2025.02　|<a href="https://github.com/Team-Wable/WABLE-ANDROID">Wable</a>|비난, 조롱없이 내 팀과 선수를 응원하는 LCK 팬 커뮤니티 서비스|Android App 개발|
-| 2024.10 ~ ing　|<a href="https://github.com/Noostak/ScheTook-Android">ScheTook</a>|누구나 편리하게 탁, 스케줄 관리 서비스|Android App 개발|
+| 2024.10 ~ 2025.06　|<a href="https://github.com/Noostak/ScheTook-Android">ScheTook</a>|누구나 편리하게 탁, 스케줄 관리 서비스|Android App 개발|
 
 </div>
 
